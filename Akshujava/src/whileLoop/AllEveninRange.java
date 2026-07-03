@@ -11,6 +11,7 @@ public class AllEveninRange {
 				System.out.println(i);	
 			}i++;
 		}
+		//odd
 		while(j<=50) {
 			if(j%2==1) {
 				System.out.println(j);
